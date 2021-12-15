@@ -1,0 +1,15 @@
+artifact_uri: file:///home/leo/code/Leoes98/TaxiFareModel/mlruns/1/5c2d410b301d4a91ab0e1006ffc73d17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5c2d410b301d4a91ab0e1006ffc73d17
+run_uuid: 5c2d410b301d4a91ab0e1006ffc73d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1639532061935
+status: 1
+tags: []
+user_id: unknown
